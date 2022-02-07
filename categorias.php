@@ -31,11 +31,11 @@ comprobar_sesion();
     if ($categorias === FALSE) {
         echo "<p class='error'>Error al conectar con la base de datos</p>";
     } else {
-        echo "<ul>";
+        echo "<ul >";
         foreach ($categorias as $cat) {
             // $cat['nombre'] $cat['codCat']
             $url = "productos.php?categoria=" . $cat['codCat'];
-            echo "<li><a href='$url'>" . $cat['nombre'] . "</a></li>";
+            echo "<li class='lista'><a href='$url'>" . $cat['nombre'] . "</a></li>";
         }
 
         echo "</ul>";

@@ -32,6 +32,8 @@ if($usu===FALSE){
 </head>
 <header-component></header-component>
 <body>
+<h1>Inicia a sesión</h1>
+
 <?php if (isset($_GET["redirigido"])){
     echo "<p>Haga login para continuar</p>";
 } ?>

@@ -49,7 +49,7 @@ comprobar_sesion();
     echo "</table>";
     ?>
     <hr>
-    <a href="procesar_pedido.php">Realizar pedido</a>
+    <a href="procesar_pedido.php" class="link-pedido">Realizar pedido</a>
 
     <footer-component></footer-component>
 </body>
