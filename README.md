@@ -3,7 +3,7 @@
 
 * Consta dun inicio de sesión, unha sección de productos onde podemos seleccionar categorías e, dentro das mesmas, seleccionar os productos en si. Estes engadiranse ao carriño, dende onde se poderá efectuar o pedido. Unha vez feito, debería enviarse un correo automáticamente con axuda de PHPMailer á dirección coa que o usuario iniciou sesión.
 
-* Instalouse mediante a consola PHPMailer, o framework de CSS Bootstrap e o manexador de paquetes.
+* Instalouse mediante a consola PHPMailer, o framework de CSS Bootstrap e o manexador de paquetes npm.
 
 * Para engadir Bootstrap enlazouse un dos arquivos CSS do cartafol vendor>bootstrap>dist>css e engadíronselle novos estilos para adaptalos á aplicación en cuestión.
 
