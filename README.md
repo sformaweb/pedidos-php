@@ -20,14 +20,3 @@
   >
   > De igual xeito, no arquivo bd.php hai que cambiar a liña 56 con "select codCat, nombre, descripcion..." (engadir a variable nombre).
 
-
-
-
-
-![ex1](src\capturas\ex2.png)
-
-![ex1](src\capturas\ex1.png)
-
-![ex1](src\capturas\ex3.png)
-
-![ex1](src\capturas\ex4.png)
